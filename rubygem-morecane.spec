@@ -4,7 +4,7 @@
 #
 Name     : rubygem-morecane
 Version  : 0.1.0
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/morecane-0.1.0.gem
 Source0  : https://rubygems.org/downloads/morecane-0.1.0.gem
 Summary  : No detailed summary available
@@ -52,28 +52,11 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/morecane-0.1.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/EncodingCheck/cdesc-EncodingCheck.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/EncodingCheck/file_names-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/EncodingCheck/find_violations-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/EncodingCheck/options-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/EncodingCheck/violations-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustMatchCheck/cdesc-MustMatchCheck.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustMatchCheck/file_names-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustMatchCheck/find_violations-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustMatchCheck/options-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustMatchCheck/violations-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustNotMatchCheck/cdesc-MustNotMatchCheck.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustNotMatchCheck/file_names-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustNotMatchCheck/find_violations-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustNotMatchCheck/options-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/MustNotMatchCheck/violations-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/Morecane/cdesc-Morecane.ri
-/usr/lib64/ruby/gems/2.2.0/doc/morecane-0.1.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/morecane-0.1.0/CHANGELOG
-/usr/lib64/ruby/gems/2.2.0/gems/morecane-0.1.0/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/morecane-0.1.0/lib/morecane.rb
-/usr/lib64/ruby/gems/2.2.0/gems/morecane-0.1.0/lib/morecane/encoding_check.rb
-/usr/lib64/ruby/gems/2.2.0/gems/morecane-0.1.0/lib/morecane/must_match_check.rb
-/usr/lib64/ruby/gems/2.2.0/gems/morecane-0.1.0/lib/morecane/must_not_match_check.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/morecane-0.1.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/morecane-0.1.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/morecane-0.1.0/CHANGELOG
+/usr/lib64/ruby/gems/2.3.0/gems/morecane-0.1.0/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/morecane-0.1.0/lib/morecane.rb
+/usr/lib64/ruby/gems/2.3.0/gems/morecane-0.1.0/lib/morecane/encoding_check.rb
+/usr/lib64/ruby/gems/2.3.0/gems/morecane-0.1.0/lib/morecane/must_match_check.rb
+/usr/lib64/ruby/gems/2.3.0/gems/morecane-0.1.0/lib/morecane/must_not_match_check.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/morecane-0.1.0.gemspec
